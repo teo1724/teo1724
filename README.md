@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there 👋, I'm Teodora
+I'm a 2nd-year Applied Electronics, Telecommunications, and Information Technology student at UPB with a strong foundation in hardware-software integration and AI-driven problem solving.
 
+* 🔭 Currently preparing for the TIE PCB design competition and building AI tools.
+* 🌱 Deepening my knowledge in ESP32 embedded systems, Python automation, and machine learning pipelines.
+* 🤖 Former Engineering Department Lead & Team Captain for FIRST Tech Challenge.
+* 📫 Reach me on [LinkedIn](www.linkedin.com/in/teodora-maria-udroiu-80889927b).
 <!--
 **teo1724/teo1724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
